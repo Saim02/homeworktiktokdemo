@@ -8,3 +8,19 @@ Hybrid App that show multiple video similar to tiktok app. Videos can be liked a
 
   <p>Demo Image Link.</p>
 </a>
+
+# Run Locally
+
+Clone repository to or download zip file
+
+# For IOS
+
+yarn install
+npx react-native run-ios
+
+# For Android
+
+yarn install
+npx react-native run-android
+
+If app doesn't launch directly from command "npx react-native run-android" then open the project in Android Studio and run project to launch the app.
