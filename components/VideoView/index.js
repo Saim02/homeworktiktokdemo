@@ -21,6 +21,7 @@ export default function VideoView(props) {
           paused={videoData.paused}
           repeat
           style={[styles.videoPlayer]}
+          resizeMode="cover"
           onBuffer={() => console.warn('buffering')}
           onError={() => alert('Cant Load')}
           source={videoData.video}></Video>
