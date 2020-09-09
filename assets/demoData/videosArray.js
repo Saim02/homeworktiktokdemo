@@ -1,12 +1,12 @@
-import video1 from '../videos/video3.mp4';
-import video2 from '../videos/video11.mp4';
-import video3 from '../videos/video6.mp4';
-import video4 from '../videos/video10.mp4';
-import video5 from '../videos/video12.mp4';
-import video6 from '../videos/video5.mp4';
-import video7 from '../videos/video9.mp4';
-import video8 from '../videos/video123.mp4';
-import video9 from '../videos/video13.mp4';
+import video1 from '../videos/video3_compressed.mp4';
+import video2 from '../videos/video11_compressed.mp4';
+import video3 from '../videos/video6_compressed.mp4';
+import video4 from '../videos/video10_compressed.mp4';
+import video5 from '../videos/video12_compressed.mp4';
+import video6 from '../videos/video5_compressed.mp4';
+import video7 from '../videos/video9_compressed.mp4';
+import video8 from '../videos/video123_compressed.mp4';
+import video9 from '../videos/video13_compressed.mp4';
 
 const videosArray = [
   {
