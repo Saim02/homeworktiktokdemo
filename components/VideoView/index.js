@@ -8,7 +8,7 @@ import {
   SafeAreaView,
   TouchableWithoutFeedback,
 } from 'react-native';
-const {width, height} = Dimensions.get('screen');
+const {width, height} = Dimensions.get('window');
 import Video from 'react-native-video';
 import Icon from 'react-native-vector-icons/AntDesign';
 
